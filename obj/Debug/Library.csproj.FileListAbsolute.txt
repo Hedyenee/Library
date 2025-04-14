@@ -1,0 +1,11 @@
+D:\c_sharp_Project\Library\bin\Debug\Library.exe.config
+D:\c_sharp_Project\Library\bin\Debug\Library.exe
+D:\c_sharp_Project\Library\bin\Debug\Library.pdb
+D:\c_sharp_Project\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\c_sharp_Project\Library\obj\Debug\Library.Properties.Resources.resources
+D:\c_sharp_Project\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\c_sharp_Project\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\c_sharp_Project\Library\obj\Debug\Library.exe
+D:\c_sharp_Project\Library\obj\Debug\Library.pdb
+D:\c_sharp_Project\Library\obj\Debug\Library.Dashbord.resources
+D:\c_sharp_Project\Library\obj\Debug\Library.AddStudent.resources
