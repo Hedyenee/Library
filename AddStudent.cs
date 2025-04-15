@@ -70,5 +70,28 @@ namespace Library
             txtContact.Clear();
             txtEmail.Clear();
         }
+
+        private void AddStudent_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            if (txtDepartment.Text == "" || txtEmail.Text == "" || txtEnrollment.Text == "" || txtName.Text == "" || txtSemester.Text == "" || txtContact.Text == "")
+            {
+                MessageBox.Show("Please fill all the fields", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                String name = txtName.Text;
+                String enroll = txtEnrollment.Text;
+                String dep = txtDepartment.Text;
+                String sem = txtSemester.Text;
+                Int64 mobile = Int64.Parse(txtContact.Text);
+                String email = txtEmail.Text;
+                MessageBox.Show("Data Saved Successfully", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
     }
 }
