@@ -9,3 +9,16 @@ D:\c_sharp_Project\Library\obj\Debug\Library.exe
 D:\c_sharp_Project\Library\obj\Debug\Library.pdb
 D:\c_sharp_Project\Library\obj\Debug\Library.Dashbord.resources
 D:\c_sharp_Project\Library\obj\Debug\Library.AddStudent.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.exe.config
+C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.exe
+C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.pdb
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.AddStudent.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.Dashbord.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.SignIn.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.exe
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.pdb
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.AddBook.resources

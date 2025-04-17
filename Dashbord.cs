@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -48,5 +48,11 @@ namespace Library
 
 
         }
+
+    private void addNewBookToolStripMenuItem_Click(object sender, EventArgs e)
+    {
+      AddBook abs = new AddBook();
+      abs.Show();
     }
+  }
 }
