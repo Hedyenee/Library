@@ -3,27 +3,43 @@
   "WorkspaceRootPath": "D:\\c_sharp_Project\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:addstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\viewstudentinformation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:viewstudentinformation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|d:\\c_sharp_project\\library\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\ma_base.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:ma_base.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|D:\\c_sharp_Project\\Library\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E18CC56C-93C7-40CB-8456-DAEF0B1EBCA5}|Library.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,58 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewStudentinformation.cs",
-              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
-              "RelativeDocumentMoniker": "ViewStudentinformation.cs",
-              "ToolTip": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
-              "RelativeToolTip": "ViewStudentinformation.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:54:22.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddStudent.cs [Design]",
-              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
-              "RelativeDocumentMoniker": "AddStudent.cs",
-              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.cs [Design]",
-              "RelativeToolTip": "AddStudent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:50:42.627Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewStudentinformation.cs [Design]",
-              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
-              "RelativeDocumentMoniker": "ViewStudentinformation.cs",
-              "ToolTip": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs [Design]",
-              "RelativeToolTip": "ViewStudentinformation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:46:37.52Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddStudent.Designer.cs",
-              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.Designer.cs",
-              "RelativeDocumentMoniker": "AddStudent.Designer.cs",
-              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.Designer.cs",
-              "RelativeToolTip": "AddStudent.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:33:41.724Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -112,20 +78,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddStudent.cs",
-              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
-              "RelativeDocumentMoniker": "AddStudent.cs",
-              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
-              "RelativeToolTip": "AddStudent.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAD4v1MAAAANAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ma_base.db",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ma_base.db",
+              "RelativeDocumentMoniker": "ma_base.db",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\ma_base.db",
+              "RelativeToolTip": "ma_base.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-17T01:39:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewStudentinformation.cs [Design]",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
+              "RelativeDocumentMoniker": "ViewStudentinformation.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs [Design]",
+              "RelativeToolTip": "ViewStudentinformation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:33:06.127Z",
+              "WhenOpened": "2025-04-14T23:46:37.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewStudentinformation.cs",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
+              "RelativeDocumentMoniker": "ViewStudentinformation.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.cs",
+              "RelativeToolTip": "ViewStudentinformation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:54:22.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.Designer.cs",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.Designer.cs",
+              "RelativeDocumentMoniker": "AddStudent.Designer.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.Designer.cs",
+              "RelativeToolTip": "AddStudent.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:33:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashbord.cs",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Dashbord.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\Dashbord.cs",
+              "RelativeToolTip": "Dashbord.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAD4vzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:47:39.607Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Dashbord.cs [Design]",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Dashbord.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\Dashbord.cs [Design]",
+              "RelativeToolTip": "Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:46:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewStudentinformation.Designer.cs",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.Designer.cs",
+              "RelativeDocumentMoniker": "ViewStudentinformation.Designer.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\ViewStudentinformation.Designer.cs",
+              "RelativeToolTip": "ViewStudentinformation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:43:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c_sharp_Project\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -133,8 +172,30 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:01:51.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T20:01:51.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
+              "RelativeDocumentMoniker": "AddStudent.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.cs [Design]",
+              "RelativeToolTip": "AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:50:42.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
+              "RelativeDocumentMoniker": "AddStudent.cs",
+              "ToolTip": "D:\\c_sharp_Project\\Library\\AddStudent.cs",
+              "RelativeToolTip": "AddStudent.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAD4v1MAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:33:06.127Z"
             }
           ]
         }

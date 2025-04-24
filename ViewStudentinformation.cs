@@ -26,5 +26,26 @@ namespace Library
         {
 
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ViewStudentinformation_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSearchEnrollement_TextChanged(object sender, EventArgs e)
+        {
+            if (txtSearchEnrollement.Text == "")
+            {
+                Image img = Image.FromFile("D:/c_sharp_Project/Library/Resources/searchgif.gif");
+                pictureBox1.Image = img;
+
+            }
+        }
     }
+
 }

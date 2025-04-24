@@ -48,5 +48,11 @@ namespace Library
 
 
         }
+
+        private void viewStudentDetailsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ViewStudentinformation view = new ViewStudentinformation();
+            view.Show();
+        }
     }
 }
