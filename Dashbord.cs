@@ -49,19 +49,17 @@ namespace Library
 
         }
 
-<<<<<<< HEAD
+
     private void addNewBookToolStripMenuItem_Click(object sender, EventArgs e)
     {
       AddBook abs = new AddBook();
       abs.Show();
-=======
-        private void viewStudentDetailsToolStripMenuItem_Click(object sender, EventArgs e)
+    }
+    private void viewStudentDetailsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ViewStudentinformation view = new ViewStudentinformation();
             view.Show();
         }
->>>>>>> 3022312a84d9b398cfa09b63d84a4589035c9db4
-    }
 
     private void viewBooksToolStripMenuItem_Click(object sender, EventArgs e)
     {
