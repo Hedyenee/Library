@@ -22,3 +22,4 @@ C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.csproj.CoreCompile
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.exe
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.pdb
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.AddBook.resources
+C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.ViewBook.resources
