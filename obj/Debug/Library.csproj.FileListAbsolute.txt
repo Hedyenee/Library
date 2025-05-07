@@ -9,6 +9,7 @@ D:\c_sharp_Project\Library\obj\Debug\Library.exe
 D:\c_sharp_Project\Library\obj\Debug\Library.pdb
 D:\c_sharp_Project\Library\obj\Debug\Library.Dashbord.resources
 D:\c_sharp_Project\Library\obj\Debug\Library.AddStudent.resources
+<<<<<<< HEAD
 C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.exe.config
 C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.exe
 C:\Users\chaym\Bureau\2GL\projet c#\Library\bin\Debug\Library.pdb
@@ -23,3 +24,10 @@ C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.exe
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.pdb
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.AddBook.resources
 C:\Users\chaym\Bureau\2GL\projet c#\Library\obj\Debug\Library.ViewBook.resources
+=======
+D:\c_sharp_Project\Library\bin\Debug\ma_base.db
+D:\c_sharp_Project\Library\bin\Debug\System.Data.SQLite.dll
+D:\c_sharp_Project\Library\bin\Debug\System.Data.SQLite.xml
+D:\c_sharp_Project\Library\obj\Debug\Library.ViewStudentinformation.resources
+D:\c_sharp_Project\Library\obj\Debug\Library.csproj.Up2Date
+>>>>>>> 3022312a84d9b398cfa09b63d84a4589035c9db4
